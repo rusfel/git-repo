@@ -2,3 +2,4 @@ print("Hello World");
 print("Hello People!!!")
 var x = 27;
 print("ћне " + x + " лет");
+var y = 6;
