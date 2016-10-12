@@ -3,4 +3,8 @@ print("Hello People!!!")
 var x = 27;
 print("Мне " + x + " лет");
 var y = 6;
+<<<<<<< HEAD
+print("Сколько лет твоему сыну?")
+=======
 print("Моему сыну " + y + " годиков")
+>>>>>>> master
