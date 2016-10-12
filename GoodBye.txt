@@ -1,4 +1,4 @@
-print("Bye-Bye!!!")
-print("GoodBye!!!")
-print("See you later")
-print("Good night!!!")
+print("Bye-Bye!!!");
+print("GoodBye!!!");
+print("See you later");
+print("Good night!!!");
