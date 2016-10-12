@@ -3,3 +3,4 @@ print("Hello People!!!")
 var x = 27;
 print("Мне " + x + " лет");
 var y = 6;
+print("Сколько лет твоему сыну?")
