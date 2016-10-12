@@ -1,2 +1,2 @@
-print("Bye-Bye!!!")
-print("GoodBye!!!")
+print("Bye-Bye!!!");
+print("GoodBye!!!");
